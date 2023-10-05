@@ -103,11 +103,11 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/medo2203/medo2203/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+ <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+</div>
+<br>
+<br> 
 ###
 
 <div align="center">
