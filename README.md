@@ -1,5 +1,13 @@
 <br clear="both">
 
+### Account views
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/medo2203/count.svg?"  />
+</div>
+
+###
+
 <h2 align="center">Hi 👋! My name is Mohamed Bouzraa and I'm a Full-Stack developper, from Morocco</h2>
 
 ###
@@ -112,10 +120,5 @@
 <br>
 <br> 
 
-### Account views
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/medo2203/count.svg?"  />
-</div>
 
 ###
