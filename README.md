@@ -1,5 +1,3 @@
-<br clear="both">
-
 ### Account views
 
 <div align="center">
