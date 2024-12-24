@@ -1,4 +1,7 @@
 ### Account views
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=3895fd&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Mohamed+Bouzraa.;I'm+a+full-stack+developer." alt="typing intro">
+</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/medo2203/count.svg?"  />
